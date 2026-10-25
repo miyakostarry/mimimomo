@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "touch_pad") (type "KiCad") (uri "C:/GitHub/mimimomo/Hackclub-KiCad-Libraries-main/touch_pad.pretty") (options "") (descr ""))
+	(lib (name "Hackclub-KiCad-Libraries-main") (type "KiCad") (uri "C:/GitHub/mimimomo/Hackclub-KiCad-Libraries-main.pretty") (options "") (descr ""))
+	(lib (name "touch_padd") (type "KiCad") (uri "C:/GitHub/mimimomo/touch_padd.pretty") (options "") (descr ""))
+)
