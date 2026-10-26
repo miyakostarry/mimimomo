@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 9.13h | 5 |
+| Week 3 | Tier 1 | 8.68h | 5 |
 
 ## Contents
 
@@ -66,12 +66,10 @@ ok i always think that tracing won't eat me away but it's always the hardest mes
 
 ### 2026-10-25 – almost! finished with it encountered an issue and was trying to fix it and oh alot of time ai is just nuts i'll say  thanks to ai i kind of figured out few things by myself and in fex things i took he
 
-**1.57h**
+**1.12h**
 
 almost! finished with it encountered an issue and was trying to fix it and oh alot of time ai is just nuts i'll say  thanks to ai i kind of figured out few things by myself and in fex things i took help while fixing the errors and in the end i'll add more and more doodles here to make it look cute and hack clubbbbbb
 
 ![Screenshot 2026-10-26 045333](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/21134658e18490537daec54e3e33978eddd0c13de85a064bf57676af3601b355.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/8524a149-e6c6-4a31-9b35-161fcfaa28e9/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/859a8a47-a424-4fdc-b59b-c293d78005fb/video.mp4)
