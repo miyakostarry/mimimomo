@@ -4,6 +4,11 @@ Mimimomo is a flower-shaped MIDI controller PCB designed using KiCad. The projec
 basically i had vission but it didn't turned out the way i wanted because i struggled alot when placing all the parts and also while making the capacitive touch footprints like i was confused it took alot of time to figure out how the things will work anyway i still love it becayse i completed it gonna add more doodles and make it freaky!@! and doodlie╰(*°▽°*)╯
 THANKS!!
 
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-26 063630" src="https://github.com/user-attachments/assets/c2c4fb8f-ab2a-4885-b16c-0d5f196e22dc" />
+
+
+
 <img width="722" height="557" alt="Screenshot 2026-10-26 051856" src="https://github.com/user-attachments/assets/19347fec-a0dc-4f03-88e1-3defae3d9a60" />
 
 
